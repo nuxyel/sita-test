@@ -1,6 +1,6 @@
-# SIDIA Inventory Management System
+# E-Commerce Inventory Management System
 
-Full stack inventory app built for the SIDIA Full Stack Developer technical challenge.
+Simple e-commerce inventory management system built for the SIDIA Full Stack Developer technical challenge.
 
 ## Quick Evaluation
 
